@@ -23,7 +23,7 @@ while True:
         s=input("請輸入English(按0跳出)")
         if s=='0'
         break
-    
+        if s in d
         int(input("請輸入中文"))
     elif adw==2:
         int(input("請輸入單字"))         

@@ -20,7 +20,10 @@ def abb(p,total):
            
     avg=total/p
     return avg
+
 for j in score:
-    total=total+j 
+    total=total+j
 ans = abb(p,total)
 print(ans)
+
+
